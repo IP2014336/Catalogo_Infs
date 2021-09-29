@@ -1,0 +1,59 @@
+Nome;Definição;Sinónimos;Relacionado;Abreviaturas/Alias;Espanhol;Letra
+Apólice;Escrito que formaliza o contrato entre o segurador e o tomador do seguro e do qual faz ainda parte integrante o risco identificado na proposta e o acordado por aqueles nas Condições Gerais, Especiais e Particulares.;Contrato de Seguro;;Num_Poliza;Póliza;a
+Contrato de Seguro;Escrito que formaliza o contrato entre o segurador e o tomador do seguro e do qual faz ainda parte integrante o risco identificado na proposta e o acordado por aqueles nas Condições Gerais, Especiais e Particulares.;Apólice;;Num_Poliza;Póliza;c
+Condições Gerais;Conjunto de cláusulas que definem e regulamentam princípios, regras e obrigações genéricas e comuns inerentes a um ramo ou modalidade de seguro.;;"Condições Especiais,
+Cláusulas Particulares,
+Condições Particulares";CG;condiciones generales;c
+Condições Especiais;Cláusulas que complementam ou especificam disposições das Condições Gerais.;;"Condições Gerais,
+Cláusulas Particulares,
+Condições Particulares";CE;condiciones especiales;c
+Cláusulas Particulares;Cláusulas que complementam ou especificam disposições das Condições Gerais e Especiais.;;"Condições Gerais,
+Condições Especiais,
+Condições Particulares";;;c
+Condições Particulares;Documento onde se encontram os elementos específicos e individuais de cada contrato e que o distingue de todos os outros;;"Condições Gerais,
+Condições Especiais,
+Cláusulas Particulares";CP;condiciones particulares;c
+Ata Adicional;(Documento que titula) uma alteração da apólice e da qual faz parte integrante;Suplemento;;Spto;;a
+Segurador;Entidade legalmente autorizada a exercer a atividade seguradora e a explorar o ramo de seguro titulado pelo presente contrato. Assume as consequências financeiras pela ocorrência de eventos objeto de cobertura;Companhia de Seguro;;Cia;Entidad de seguros, Asegurador;s
+Tomador de Seguro;Pessoa ou entidade que contrata com o segurador, sendo responsável pelo pagamento dos prémios;Cliente;;;;t
+Segurado;Pessoa ou entidade identificada nas Condições Particulares e que é titular do interesse seguro;;;;;s
+Companhia;Sociedade formada por distintas pessoas para a obtenção de propósitos e benefícios comuns;;;;compañía ;c
+Em partes iguais;Expressão utilizada nos contratos de seguro que determina que a repartição de algo entre diversas pessoas, fisícas ou jurídicas, será feita em iguais cotas para cada parte.;;;;a partes iguales;e
+All Risks;Expressão pela qual se entende que todas as garantias normalmente aplicáveis ??a um dado risco foram incluídas num determinado contrato de seguro.;;;;a todo riesgo, seguro a todo o riesgo;a
+Acidente;"Em termos gerais, um eventual evento ou ação que resulta em dano involuntário a pessoas ou coisas.
+Para efeitos de seguro, é um ato ou fato decorrente de causa violenta, súbita, externa e involuntária, que cause danos a pessoas ou coisas. ";Sinistro;"Acidente Ambiental,
+Acidente Automobilístico";;accidente;a
+Acidente Ambiental;Acontecimento imprevisto que gera consequências indesejáveis ??no conjunto de circunstâncias externas aos seres vivos.;Sinistro ambiental;Acidente;;accidente ambiental;a
+Acidente Automobilístico;Acidente onde intervem pelo menos 1 veículo motorizado;Sinistro automóvel;Acidente;;accidente automovilístico;a
+Acidente de Trabalho;Lesões corporais sofridas por um trabalhador, por ocasião de ou em consequência do trabalho que realiza.;Sinistro de accidentes de trabalho;Acidente;;accidente de trabajo, accidente laboral;a
+Ativo Financeiro;Direito ou garantia sobre bem móvel a favor de uma empresa ou pessoa, em consequência de um investimento desta. Os referidos investimentos podem variar entre participações no capital de outras sociedades, empréstimos a pessoal próprio, créditos em outras entidades, direitos de subscrição preferenciais ou opções.;;;;activo financiero;a
+Ciência Atuarial;Ramo do conhecimento que estuda os princípios básicos e estruturais da atividade seguradora, tanto nos seus aspectos financeiros, técnicos, matemáticos e estatísticos, de forma a obter um equilíbrio de resultados.;;;;actuarial;c
+Atuário;Pessoa com formação académica, profissionalmente treinada para resolver questões financeiras, técnicas, matemáticas e estatísticas relacionadas com operações de seguros por meio da aplicação da ciência atuarial;;Ciência Atuarial;;actuario ;a
+Atualização;Técnica de cálculo financeiro para colocar no presente unidades monetárias de diferentes momentos, de forma a conseguir sua homogeneização ao longo do tempo.;;;;actualización ;a
+ad hoc ;Expressão do latim que significa que algo, pessoa ou coisa, é adequado para um objeto ou propósito específico.;;;;ad hoc ;a
+Gestão de Riscos;Cultura, processos e estruturas que sejam responsáveis ??por, por um lado, minimizar os efeitos negativos dos riscos, e por outro, tirar partido das suas oportunidades na contretização dos objetivos fixados pelos responsáveis ??de uma organização. Tal consegue-se através do estabelecimento de uma política de gestão e da aplicação sistemática de técnicas de gestão e procedimentos específicos que visam a identificação, análise, tratamento, controlo e revisão dos diferentes tipos de riscos. Actividade profissional de gestão que tem por objectivo identificar, avaliar, intervir, prevenir e proteger situações de risco implícito e / ou explícito numa organização, através de uma metodologia científica e directiva. Metodologia centrada na identificação, avaliação, controlo e tratamento dos riscos inerentes à empresa, de forma a prevenir ou mitigar o impacto das consequências decorrentes da manifestação de tais riscos, salvaguardando a continuidade a longo prazo da atividade económica desenvolvida por a empresa.;;;;administración de riesgos, gerencia de riesgos ;g
+Agente de Seguros;"Pessoa singular ou colectiva que, ao celebrar contrato com uma ou mais entidades seguradoras, se compromete contra estes a exercer a actividade de mediação de seguros.
+As comunicações que o tomador do seguro fizer ao agente de seguros que o medeia, ou fez a mediação no contrato, terão os mesmos efeitos como se tivessem sido feitas diretamente à seguradora.";;"Agentes vinculados,
+Agentes de seguros exclusivos";;agente de seguros;a
+Agentes vinculados;"Pessoa singular ou colectiva que, através da celebração de contrato de mediação de seguros com várias entidades seguradoras, se compromete a exercer a actividade de mediação de seguros, nos termos acordados no contrato de mediação.
+No exercício da atividade de mediação de seguros privados, ficarão sujeitos ao regime geral dos agentes de seguros.
+O agente de seguros exclusivo que deseja operar como agente de seguros vinculado precisará do consentimento da seguradora com a qual celebrou um contrato de exclusividade para celebrar outros contratos com outras seguradoras.
+Em todos os outros casos, bastará que conste nos contratos subscritos a condição de agente vinculado a outras entidades seguradoras.";;Agente de Seguros;;agentes vinculados;a
+Agentes de Seguros exclusivos;"Pessoa singular ou colectiva que celebre um contrato de mediação com uma única seguradora.
+Os valores pagos pelo cliente, ao agente de seguros exclusivo, serão considerados como pagos à seguradora. Enquanto os valores pagos pela seguradora ao agente exclusivo não serão considerados pagos ao cliente até que sejam efetivamente recebidos por este.";;Agente de Seguros;;agentes de seguros exclusivos;a
+Poupança;Parte dos rendimentos não destinados ao seu consumo ou distribuição.;;Seguro de Poupança;;ahorro ;p
+Ajustes por periodificação;"Conjunto de operações mediante as quais se efetua o acerto dos desfasamentos produzidos quando o fecho de um período (normalmente o exercício económico) não coincide com a exigibilidade de certos direitos e obrigações. 
+Tem por objetivo a contabilização, em cada período, dos gastos e rendimentos imputáveis aos mesmos.";;;;ajustes por periodificación;a
+Algoritmo;Em linguagem informática, conjunto de regras ou fórmulas que constituem a abordagem para a resolução de um problema. ;;;;algoritmo ;a
+Análise de risco;"Processo geral de identificação, descrição e avaliação dos riscos. Entenda-se como avaliação do risco o instrumento técnico a que a atividade seguradora recorre para obter um adequado equilibrio nos resultados. Fundamentalmente, concretiza-se nos seguintes aspetos:
+  * Seleção de riscos, mediante a qual se procura a aceitação de apenas aqueles riscos que, pelas suas caracteristicas próprias, se presuma que não venham a originar resultados desiquilibrados, por não serem piores que a média da sua categoria.
+  * Ponderação ou classificação dos riscos, subsequente à selecção inicial, através da qual se procede à correcta tarificação do risco assumido, aplicando-se o prémio adequado e criando grupos homogéneos em função da probabilidade de sinistros e respetiva intensidade.
+  * Prevenção de riscos, através da qual se procura a adoção de medidas cautelares adequadas, principalmente em riscos industriais, para evitar a produção de sinistros. 
+  * Controlo de resultados, através do qual se aplicam certas fórmulas de caracter excepcional quando, após análise dos resultados obtidos, se entende que são as únicas adequadas para atingir o equilíbrio técnico necessário: franquias discriminadas, anulação de apólices deficitárias, delimitação de garantias, imposição de exclusões de cobertura, etc.";;Seleção de riscos, tarificação, prémio, equilíbrio técnico, avaliação do risco;;análisis de riesgos;a
+Avaliação do risco;Processo através do qual os riscos identificados numa organização se ordenam, analizam,  qualificam e/ou quantificam utilizando um determinado critério, com o fim de compreender a natureza dos mesmos e determinar a probabilidade da ocorrência de sinistros e possiveis consequências.;;Análise de risco;;estimación (evaluación) del riesgo ;a
+Anti seleção;Situação que se produz quando num conjunto de apólice se incorporam riscos de sinistralidade provavel superior à técnicamente prevista como equilibrada.;;Assimetria de informação, Seleção adversa;;antiselección (de riesgos);a
+Seleção adversa;Em seguros, ocorre quando há falta de informação ou imprecisão que leve à contratação do seguro em condições que não teriam ocorrido se fosse conhecida a verdadeira identidade do risco a ser subscrito. ;;Assimetria de informação, Anti seleção;;selección adversa;s
+Assimetria de informação;"Situação em que o comprador e vendedor têm informações distintas sobre a transação. As consequências desta assimetria são: seleção adversa e o risco moral. Em seguros, o potencial cliente tem mais informação sobre o risco que o segurador. Se na altura de solicitar um seguro o cliente ocultar parte da informação, pode produzir-se seleção adversa, seja porque o segurador aceite segurar um risco que de outra forma não teria aceite, ou porque decida aplicar um prémio distinto do que aplicaria se a informação fosse simétrica. 
+O exemplo clássico dá-se em seguros de Vida ou Saúde. O risco moral produz-se uma vez contratado o seguro, quando o cliente, pelo mero facto de ter contratado o seguro, modifica a sua conduta frente ao risco. ";;"Seleção adversa,
+ Anti seleção";;asimetría de la información;a
+Anuidade;Qualidade anual. Valor anual de uma renda ou encargo periódico;;Renda;;anualidad ;a
