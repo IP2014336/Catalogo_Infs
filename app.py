@@ -4,9 +4,7 @@ import dash_html_components as html
 import dash_bootstrap_components as dbc
 import dash_table
 from dash.dependencies import Input, Output, State
-import dash_table as dt
 import pandas as pd
-import plotly.graph_objs as go
 import plotly.express as px
 from PIL import Image
 import requests
@@ -14,8 +12,6 @@ from io import BytesIO
 import smtplib
 import ssl
 import base64
-from pdf2image import convert_from_path
-from pdf2image import convert_from_bytes
 
 from collections import OrderedDict
 import textwrap
@@ -1177,38 +1173,6 @@ for ano in df['Year'].unique():
                          showarrow=True, arrowhead=7, ax=30, ay=0, font=dict(size=7))
 
 
-#@app.callback(Output("download", "data"), [Input("btn", "n_clicks")])
-#def func(n_clicks):
-#    return send_file("/Users/inesp/Documents/casas/miraventos/4.jpeg")
-def pil_to_b64_dash(im):
-    buffered = io.BytesIO()
-    im.save(buffered, format="JPEG")
-    img_str = base64.b64encode(buffered.getvalue())
-    return bytes("data:image/jpeg;base64,", encoding='utf-8') + img_str
-
-
-def parse_coa_contents(contents, filename, date):
-    content_type, content_string = contents.split(',')
-    decoded = base64.b64decode(content_string)
-    images = convert_from_bytes(decoded)
-    encoded = pil_to_b64_dash(images[0])
-
-    return html.Div([
-        # HTML images accept base64 encoded strings in the same format
-        # that is supplied by the upload
-        html.Img(src=encoded.decode('utf-8')),
-        html.Hr(),
-    ])
-
-
-@app.callback(Output('output-coa', 'children'),
-              [Input('upload-coa', 'contents')],
-              [State('upload-coa', 'filename'),
-               State('upload-coa', 'last_modified')])
-def show_coa(list_of_contents, list_of_names, list_of_dates):
-    if list_of_contents is not None:
-        children = [parse_coa_contents(list_of_contents, list_of_names, list_of_dates)]
-        return children
 # 12 > Define botão de submissão do dic
 @app.callback(
     dash.dependencies.Output('container-button-basic', 'children'),
