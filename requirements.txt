@@ -7,6 +7,5 @@ dash_html_components
 dash_core_components
 pandas
 plotly.express
-ssl
 smtplib
 dash_table
