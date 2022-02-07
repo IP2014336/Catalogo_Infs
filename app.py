@@ -30,9 +30,9 @@ logo = Image.open(BytesIO(response2.content))
 
 # 2 > Recupera dados
 path = 'https://raw.githubusercontent.com/IP2014336/Catalogo_Infs/master/'
-dic = pd.read_csv(path + 'Dicionario_Mapfre.csv', sep=';', engine='python')
-cat = pd.read_csv(path + '0_Catalogo_2021.csv', sep=';', engine='python')
-logs = pd.read_csv(path + 'Log_Pedidos.csv', sep=';', engine='python')
+dic = pd.read_csv(path + 'Dicionario_Mapfre.csv', sep=';', engine='python', encoding='latin-1')
+cat = pd.read_csv(path + '0_Catalogo_2021.csv', sep=';', engine='python', encoding='latin-1')
+logs = pd.read_csv(path + 'Log_Pedidos.csv', sep=';', engine='python', encoding='latin-1')
 pdf_path = 'https://raw.githubusercontent.com/IP2014336/Catalogo_Infs/master/Simula_Nya.pdf'
 # 3 > Define cores genéricas
 colors = {
